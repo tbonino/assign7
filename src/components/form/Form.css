@@ -1,0 +1,14 @@
+.formBody{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 5%;
+}
+
+.textInput{
+    margin: 1%;
+}
+
+.submitBtn{
+    width: fit-content;
+}
